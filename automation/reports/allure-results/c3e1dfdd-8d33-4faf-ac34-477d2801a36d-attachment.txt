@@ -1,0 +1,8 @@
+[32mINFO    [0m test_logger:test_buzz_actions.py:18 Loading login page
+[32mINFO    [0m test_logger:test_buzz_actions.py:21 Logged in as Admin
+[32mINFO    [0m test_logger:test_buzz_actions.py:24 Navigated to Buzz module
+[32mINFO    [0m test_logger:test_buzz_actions.py:28 Post created
+[32mINFO    [0m test_logger:test_buzz_actions.py:34 Verified posted content
+[32mINFO    [0m test_logger:test_buzz_actions.py:39 Comment added
+[32mINFO    [0m test_logger:test_buzz_actions.py:44 Post liked
+[32mINFO    [0m test_logger:test_buzz_actions.py:48 Post deleted

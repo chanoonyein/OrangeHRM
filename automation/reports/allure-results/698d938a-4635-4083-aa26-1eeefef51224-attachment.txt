@@ -1,0 +1,1 @@
+[32mINFO    [0m test_logger:test_buzz_actions.py:122 Post deleted successfully
